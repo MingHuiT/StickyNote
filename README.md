@@ -5,3 +5,6 @@
 >source: https://github.com/divanov11/Sticky-Notes-React
 
 *http://localhost:5173/*
+
+- Vite
+- appwrite
